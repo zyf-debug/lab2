@@ -1,5 +1,11 @@
 # Github for Lab2
-### The repositories I'm interested in
-1. The Alogrithms/ C-plus-plus
-2. microsoft/terminal
+### The Alogrithms/ C-plus-plus
+* The Algorithms: Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language
+* C-plus-plus: All Algorithms implemented in C++
+  * strings
+  * sortings
+  * probability
+  * ...
+  
+
 
